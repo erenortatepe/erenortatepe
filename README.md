@@ -1,7 +1,5 @@
 - 👋 Hi, I'm Eren!
 - 🌱 I’m currently learning: Improving my skills with C# and Unity.
 - 👯 I’m looking to collaborate on: Game development, and web-based projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me e-mail: erenortatepe19@gmail.com
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/eren-ortatepe-181a67302/
